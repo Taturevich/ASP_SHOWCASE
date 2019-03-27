@@ -9,6 +9,8 @@
 *.userosscache
 *.sln.docstates
 
+
+
 #Automation ignore
 VenueMasterAutomation/AutomationRelease/
 VenueMasterAutomation/AutomationTests/EPAM.ReportPortal.Addins.SpecFlowPlugin.dll.config
@@ -26,6 +28,7 @@ _ReSharper.*
 x64/
 x86/
 publish/
+published/
 
 #DotCover
 *.dotCover
